@@ -1,2 +1,2 @@
 # snippets
-Collection of handy snippets for all kinds of software projects
+Collection of useful snippets for all kinds of software projects
